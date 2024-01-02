@@ -25,6 +25,14 @@ PPPS：不仅支持中英文，还有其他语言，具体参见：https://devel
 
 ## 共用
 
+> 更新：2024-01-02
+>
+> 我又顺手做了个快捷指令，这样一来，你输入中文之后，复制，然后点一下桌面上的快捷指令就能自动翻译，然后回到输入框，粘贴即可！！！🥳🥳🥳
+>
+> 苹果快捷指令在👇
+> 
+> https://www.icloud.com/shortcuts/cfd905a29f0845e9905c3150318817cc
+
 Alfred Workflow 下载地址：https://github.com/CherryLover/EditTextTranslate/blob/main/EditTextTranslate.alfredworkflow
 
 https://odjwz.tech/translate
