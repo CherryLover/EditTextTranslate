@@ -27,7 +27,7 @@ PPPS：不仅支持中英文，还有其他语言，具体参见：https://devel
 
 Alfred Workflow 下载地址：https://github.com/CherryLover/EditTextTranslate/blob/main/EditTextTranslate.alfredworkflow
 
-https://text-translate.jiwzdj.workers.dev/ 看看人用的多不多，多的话，我给 Cloudflare 套一个域名，应该就行了。记得用 POST。
+https://odjwz.tech/translate
 
 用的人给个 star 🌟 哈
 
