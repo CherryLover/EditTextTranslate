@@ -35,7 +35,7 @@ PPPS：不仅支持中英文，还有其他语言，具体参见：https://devel
 
 Alfred Workflow 下载地址：https://github.com/CherryLover/EditTextTranslate/blob/main/EditTextTranslate.alfredworkflow
 
-https://odjwz.tech/translate
+接口访问地址：https://translate.odjwzonline.uk 用 POST 提交
 
 用的人给个 star 🌟 哈
 
